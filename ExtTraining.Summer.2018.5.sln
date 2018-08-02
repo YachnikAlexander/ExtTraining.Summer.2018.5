@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27703.2042
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No8", "No8\No8.csproj", "{AF291933-6A00-4D4C-9B53-4765780A37E3}"
 EndProject
@@ -10,11 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No8.Solution.Console", "No8.Solution.Console\No8.Solution.Console.csproj", "{03F6D16C-FF30-4471-B462-39FB36C6625E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No8.Solution.Tests", "No8.Solution.Tests\No8.Solution.Tests.csproj", "{165118C0-B662-4290-8E7D-2CAF15E32A2D}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{734633B6-CBD1-4C6D-BEBB-9955B643D31C}"
-	ProjectSection(SolutionItems) = preProject
-		..\ASP.NET MVC Training. Spring 2018\LabExam\LabExam-master\README.md = ..\ASP.NET MVC Training. Spring 2018\LabExam\LabExam-master\README.md
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

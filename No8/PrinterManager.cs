@@ -14,7 +14,7 @@ namespace No8
             Printers = new List<object>();
         }
 
-        public static List<object> Printers { get; set; }
+        public static List<object> Printers { get; set; } 
 
         public static void Add(Printer p1)
         {
